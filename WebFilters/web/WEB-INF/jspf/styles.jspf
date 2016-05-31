@@ -1,0 +1,5 @@
+<%@ page pageEncoding="UTF-8" %>
+
+<!-- STYLES -->
+<link href="${pageContext.servletContext.contextPath}/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="${pageContext.servletContext.contextPath}/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
